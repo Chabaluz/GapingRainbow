@@ -1,0 +1,8 @@
+t120
+loop 2
+channel 0
+o3 l8 cdedf2ed <b>cddd3p8 dc<b>dc<bg>d c<g>cec3p8
+channel 1
+;changed to o2 so it becomes a bass part
+o2 l4 c<g>c<g >d<g>d<g bgbg >c<g>cp4
+end
